@@ -1,5 +1,6 @@
-## Hi there 👋 
-
+## Hi there! 
+## Welcome to my profile! I am currently a student at Florida International University, 
+## and I am pursuing a Bachelors of Science in Computer Science.
 <!--
 **oscarv157/oscarv157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
