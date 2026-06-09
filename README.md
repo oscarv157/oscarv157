@@ -3,8 +3,7 @@
 ## with a Bachelors of Science in Computer Science.
 
 I have a passion for tech. Im usually tinkering with all sorts of stuff. 
-If Im not brainstroming new project ides, setting up a new VM on  
-my homeserver, or grinding leetcode then im probably out and about. 
+If Im not brainstroming new project ides, setting up a new VM on my homeserver, or grinding leetcode then im probably out and about. 🗣️💯😁
 
 <!--
 **oscarv157/oscarv157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
